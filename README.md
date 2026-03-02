@@ -76,7 +76,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,github,vercel" />
 </td>
 </tr>
 </table>
