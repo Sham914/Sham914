@@ -11,8 +11,9 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a aspiring developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    I'm a aspiring developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.
     From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable using AI Technologies.
+    Fast learner with eager mindset with right use of AI, New technologies will rise day-to-day.
   </p>
 
   <p>
