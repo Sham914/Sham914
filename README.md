@@ -60,6 +60,10 @@
 </td>
 
 
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+</td>
 </tr>
 <tr>
 <td width="50%" align="center">
