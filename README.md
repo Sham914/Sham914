@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5D9&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false" width="100%"/>
 </div>
 
 ## ❤️ Support Me
