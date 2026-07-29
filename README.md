@@ -92,7 +92,7 @@
 
 <div align="center">
   <br/>
-    <img src="https://streak-stats.demolab.com?user=Sham914&theme=dark&hide_border=true" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=Sham914&theme=dark&hide_border=true" alt="Streak stats" />
 </div>
 
 ---
