@@ -5,7 +5,7 @@
   Hi, I'm <strong>Muhd Shamil</strong>
 </h1>
 
-<h3>Vibe Coder | UI Designer • Frontend Developer • AI Enthusiast • C Programming</h3>
+<h3>Vibe Coder | UI Designer • Frontend Developer • AI Enthusiast </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
